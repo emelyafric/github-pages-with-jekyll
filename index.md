@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Приветствую тебя в моем блоге!
 
-I'm glad you are here. I plan to talk about ...
+Рад, что ты заглянул. Здесь будет все об автомобилях
